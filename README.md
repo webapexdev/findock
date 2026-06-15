@@ -1,4 +1,4 @@
-# Full-Stack Hiring Challenge Scaffold
+# Full-Stack Scaffold
 
 This repository provides a starter kit for a full-stack take-home exercise. The focus is on building out missing features and demonstrating end-to-end proficiency across React, Express, TypeORM, and PostgreSQL.
 
@@ -171,19 +171,4 @@ Improve validation and error handling throughout the application.
 - Add retry logic for failed API requests : done
 - Create a centralized error handling system
 
----
-
-## Submission Guidelines
-
-After completing your challenges:
-
-1. **Update README**: Document which challenges you completed and any additional setup required
-2. **Submit Your Work**:
-   - Add this repository to your GitHub account
-   - Send an email to the hugo@findock.xyz with the repository link
-   - We will review your submission and get back to you
-
-**Important Notes:**
-- **Quality over quantity**: It's better to complete fewer challenges well than many challenges poorly. Focus on demonstrating your understanding of the stack and best practices.
-- **No AI Tools**: Please do not use AI tools like ChatGPT or Copilot for this assessment. We want to evaluate your own coding abilities and problem-solving skills.
 
